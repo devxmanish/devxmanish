@@ -164,7 +164,7 @@ Official NGO website — responsive, SEO-aware, built and maintained independent
 
 > End-to-end client projects: requirements gathering → development → testing → deployment. Built responsive React.js frontends and Spring Boot backends with RESTful APIs. Managed version control, Vercel/Render deployments, SEO-optimized content, and post-launch maintenance — all independently.
 
-**🌐 Joint Secretary & Technical Head · GEG Global Foundation** &nbsp;`Mar 2025 – Present · Remote`
+**🌐 Joint Secretary & Technical Head · GEG Global Foundation** &nbsp;`Mar 2025 – May 2025 · Remote`
 
 > Built and maintain the official NGO website. Responsive UI with HTML5, CSS3, Bootstrap. Manages updates, security monitoring, and continuous enhancements.
 
@@ -181,7 +181,7 @@ Official NGO website — responsive, SEO-aware, built and maintained independent
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tech2manish&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devxmanish&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%"/>
 </div>
 
 ---
