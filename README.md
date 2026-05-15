@@ -174,7 +174,7 @@ Official NGO website — responsive, SEO-aware, built and maintained independent
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tech2manish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Manish's%20GitHub%20Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devxmanish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Manish's%20GitHub%20Stats"/>
 &nbsp;&nbsp;
 <img height="180em" src="https://streak-stats.demolab.com/?user=tech2manish&theme=tokyonight&hide_border=true"/>
 
