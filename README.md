@@ -1,27 +1,208 @@
-# 💫 About Me:
-🚀 I'm currently working on a Student Testing Platform and an AI-powered Symptom Checker Chatbot using NLP.<br><br>🤝 I'm looking to collaborate on Java Spring Boot projects, AI/ML applications, and innovative tech solutions.<br><br>🛠 I'm looking for help with optimizing NLP models, enhancing chatbot accuracy, and improving AI-driven applications.<br><br>📚 I'm currently exploring AI techniques and related fields while deepening my expertise in full-stack development.<br><br>💡 Ask me about Java development, Spring Boot, MySQL, AI-powered applications, and full-stack projects.<br><br>😄 Fun fact: I enjoy balancing coding with leadership roles, actively managing multiple clubs while building impactful tech solutions!
+<div align="center">
 
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║        ███╗   ███╗ █████╗ ███╗   ██╗██╗███████╗██╗  ██╗    ║
+║        ████╗ ████║██╔══██╗████╗  ██║██║██╔════╝██║  ██║    ║
+║        ██╔████╔██║███████║██╔██╗ ██║██║███████╗███████║    ║
+║        ██║╚██╔╝██║██╔══██║██║╚██╗██║██║╚════██║██╔══██║    ║
+║        ██║ ╚═╝ ██║██║  ██║██║ ╚████║██║███████║██║  ██║    ║
+║        ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝   ║
+║                                                              ║
+║              Full-Stack Developer · AI Builder               ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Tech2Manish) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_manish_helptech) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tech2manish) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tech2manish) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tech2manish&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tech2manish&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tech2manish&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tech2manish&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tech2manish&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <a href="mailto:devxmanish@gmail.com"><img src="https://img.shields.io/badge/Gmail-devxmanish-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://linkedin.com/in/devxmanish"><img src="https://img.shields.io/badge/LinkedIn-devxmanish-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://devxmanish.xyz"><img src="https://img.shields.io/badge/Portfolio-devxmanish.xyz-000000?style=flat-square&logo=vercel&logoColor=white"/></a>&nbsp;
+  <a href="https://medium.com/@tech2manish"><img src="https://img.shields.io/badge/Medium-@tech2manish-12100E?style=flat-square&logo=medium&logoColor=white"/></a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=tech2manish&style=flat-square&color=blueviolet&label=Profile+Views"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tech2manish&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚡ `whoami`
+
+```java
+public class Manish extends Developer {
+
+    String[] currentlyBuilding = {
+        "🎓 Student Testing Platform",
+        "🤖 AI-Powered Symptom Checker Chatbot (NLP)"
+    };
+
+    String[] roles = {
+        "🎖  Google Student Ambassador",
+        "👑  President @ CES (Computer Engineering Society), MIT Meerut",
+        "📌  Campus Mantri @ GeeksforGeeks",
+        "🌐  Joint Secretary & Tech Head @ GEG Global Foundation"
+    };
+
+    String passion = "Building scalable systems at the intersection of AI & Web";
+    String degree  = "B.Tech CSE (Data Science) · MIT Meerut · 2022–2026";
+
+    @Override
+    public String toString() {
+        return "Turning coffee ☕ into clean, production-ready code since 2022";
+    }
+}
+```
+
+---
+
+## 🏆 Highlights
+
+<div align="center">
+
+| 🥈 2nd Place · TechFest 2025 | 🥉 3rd Place · TechFest 2025 |
+|:---:|:---:|
+| AI-Powered Smart Lab Assistant | AI-Driven Domain Model Extraction |
+| Automated lab experiment management | LLM-based requirement analysis |
+
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+**Backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Database & Cloud**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+
+**AI / ML**
+
+![LLM](https://img.shields.io/badge/LLM_Integration-FF6F00?style=flat-square&logo=openai&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-7B2FBE?style=flat-square&logo=spacy&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔬 AI Smart Lab Assistant
+> `Java` `Spring Boot` `React` `LLMs` `MySQL`
+
+AI-driven platform for faculty to **generate, explain, and manage** lab experiments. Features automated PDF generation, task assignment, and secure admin dashboard.
+
+🏅 **2nd Place · TechFest 2025**
+
+</td>
+<td width="50%">
+
+### 🧠 Domain Model Extractor
+> `Java` `Spring Boot` `React` `MySQL` `Hibernate`
+
+Research system that uses **LLMs to extract domain entities and relationships** from user stories — streamlining software design workflows.
+
+🏅 **3rd Place · TechFest 2025**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ✅ Task Management App
+> `Java` `Spring Boot` `React` `JWT` `Tailwind` `shadcn/ui`
+
+Full-stack task manager with **JWT auth**, priority-based filtering (High/Medium/Low), real-time status updates, and clean UX.
+
+</td>
+<td width="50%">
+
+### 🌐 GEG Global Foundation Site
+> `React` `Responsive Design` `SEO`
+
+Official NGO website built from scratch — accessible, responsive, and optimized for donor/volunteer engagement and outreach.
+
+🔗 [gegglobalfoundation.org](https://gegglobalfoundation.org)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tech2manish&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech2manish&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tech2manish&theme=tokyonight&hide_border=true" width="500"/>
+</div>
+
+---
+
+## 🎓 Certifications
+
+| Certificate | Issuer | Period |
+|:---|:---|:---|
+| 🧠 Prompt Engineering | Columbia University | Jul–Aug 2025 |
+| ☕ Java Programming | Infosys Springboard | Feb–Aug 2025 |
+| ⚛️ React JS | Infosys Springboard | Jun–Jul 2025 |
+| 🎖️ Google Student Ambassador | Google | 2025 |
+
+---
+
+## 💬 Ask Me About
+
+```
+Java & Spring Boot  ·  Full-Stack Architecture  ·  LLM Integration
+REST API Design     ·  React & State Management ·  Prompt Engineering
+Building in Public  ·  Campus Tech Communities  ·  EdTech Solutions
+```
+
+---
+
+<div align="center">
+
+**Fun fact:** I manage multiple leadership roles AND ship production apps simultaneously.  
+Balance isn't a myth — it's a skill. 🧩
+
+<br/>
+
+*"Build things that matter. Lead people who inspire."*
+
+</div>
