@@ -9,15 +9,15 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-devxmanish.xyz-0f2027?style=for-the-badge)](https://devxmanish.xyz)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devxmanish)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-devxmanish@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devxmanish@gmail.com)&nbsp;
-[![Medium](https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tech2manish)
+[![Medium](https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@devxmanish)
 
-<img src="https://komarev.com/ghpvc/?username=tech2manish&style=flat-square&color=2c5364&label=Profile+Views" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=devxmanish&style=flat-square&color=2c5364&label=Profile+Views" alt="profile views"/>
 
 </div>
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech2manish&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=340"/>
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxmanish&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=340"/>
 
 ### `> whoami`
 
@@ -176,7 +176,7 @@ Official NGO website — responsive, SEO-aware, built and maintained independent
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devxmanish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Manish's%20GitHub%20Stats"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://streak-stats.demolab.com/?user=tech2manish&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=devxmanish&theme=tokyonight&hide_border=true"/>
 
 </div>
 
